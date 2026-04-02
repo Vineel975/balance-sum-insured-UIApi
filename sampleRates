@@ -1,0 +1,65 @@
+Service Rates (Packages)				
+Sr.No	Surgery Package Name	Serice Rate	Conditions in Package	FHPL TARIFF
+1	Cataracat with Spectra Phob/ Supraphob	12500	A,B,C,D,E	
+2	Cataracat with Acriol EC	20000	A,B,C,D,E	
+3	Cataracat with Alcon IQ/3pc/Technis 1	30500	A,B,C,D,E	25000
+4	Cataracat with CT Asphina/Lucia/Technis eyhance	35000	A,B,C,D,E	30000
+5	Cataract with Multifocal with IDIFF/Edof 	43000	A,B,C,D,E	35000
+6	Cataract with Monofocal toric J&J	48500	A,B,C,D,E	35000
+7	Cataract with Multifocal with Lara/Technis 	58500	A,B,C,D,E	40000
+8	Cataract with Symphnoy	64000	A,B,C,D,E	5000
+9	Cataract with Trifocal lens Panoptix	74800	A,B,C,D,E	60000
+10	Cataract with Symphnoy Toric	90500	A,B,C,D,E	60000
+11	Cataract with Trifocal toric 	95000	A,B,C,D,E	60000
+12	Inj. Accantrix	30000	A,B,C,D,E	AS PER MRP
+13	Inj.Razumab	20000	A,B,C,D,E	
+14	Inj.Avastin	11000	A,B,C,D,E	
+15	Inj. Ozurdex	35000	A,B,C,D,E	
+16	Inj. Eylea	50000	A,B,C,D,E	
+17	Inj. Peganax	50000	A,B,C,D,E	
+18	Pteregium without grafting	9000	A,B,C,D,E	
+19	Pterigum with grafting	16500	A,B,C,D,E	
+20	Entropion (U/L)	10500	A,B,C,D,E	
+21	Ectropion (U/L)	10500	A,B,C,D,E	
+22	Buckling Sx	47500	A,B,C,D,E	30000
+23	PPV+Sfiol/GAS	47500	A,B,C,D,E	30000
+24	PPV+Siloil+ILM+Peel	68500	A,B,C,D,E	35000
+25	PPV+IOFB+SO	68500	A,B,C,D,E	35000
+26	Secondry IOL 	26500	A,B,C,D,E	
+27	Cat+SFIOL	37000	A,B,C,D,E	
+28	Squint	16000	A,B,C,D,E	
+29	Squint (B/L)	27500	A,B,C,D,E	
+30	Ptosis U/L	16000	A,B,C,D,E	
+31	Vitrectomy	26500	A,B,C,D,E	20000
+32	Keratoplasty (Theraputic)	27500	A,B,C,D,E	25000
+33	Keratoplasty (Optical)	38000	A,B,C,D,E	30000
+34	Enucleation	10500	A,B,C,D,E	
+35	Enucleation With Implant	21500	A,B,C,D,E	
+36	Evisceration	10500	A,B,C,D,E	
+37	Evisceration with implant	21500	A,B,C,D,E	
+38	Glaucoma Sx Stand Alone	27500	A,B,C,D,E	25000
+39	Glaucoma+MMC/Ologen (SA)	33000	A,B,C,D,E	30000
+40	Glaucoma (Combination)	26500	A,B,C,D,E-Excluded	
+41	Cutler B.Lid Sx	12000	A,B,C,D,E	
+42	Lensectomy PPV	26500	A,B,C,D,E	
+43	Dermoid/Lipo Dermoid	10500	A,B,C,D,E	
+44	Lipo dermoid with AMG	17000	A,B,C,D,E	
+45	AC-Wash	4500	A,B,C,D,E	
+46	Lid Tear (Canalicular)	21500	A,B,C,D,E	18000
+47	Lid tear small	6500	A,B,C,D,E	
+48	Lid Tear large	13000	A,B,C,D,E	
+49	Cyst Excision	8500	A,B,C,D,E	
+50	Paracentesis	4500	A,B,C,D,E	
+51	Corneal Tear-Small	14000	A,B,C,D,E	
+52	Corneal Tear-Large	18000	A,B,C,D,E	
+53	Anterior Chamber Reconstruction	4500	A,B,C,D,E	
+54	Silicon Oil Removal	27500	A,B,C,D,E	25000
+55	Simple DCR	10500	A,B,C,D,E	
+56	Endoscopic DCR	16000	A,B,C,D,E	
+				
+Note	Package Condition	A	Room Charges	
+		B	Surgon Charges	
+		C	Nursing Charges	
+		D	OT Charges	
+		E	IOL Charges	
+				
